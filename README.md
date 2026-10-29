@@ -6,6 +6,12 @@
 
 DiverCityPark ayuda a encontrar plazas de aparcamiento para personas con movilidad reducida en Las Palmas de Gran Canaria (piloto: Guanarteme y Mesa y López) y a saber si se pueden usar.
 
+## Novedades de la versión 0.8.0
+
+- Con las cuentas de moderación o administración, en **Panel → Plazas registradas** se ven todas las plazas, también las dadas de baja, con filtros y buscador.
+- Desde esa lista se edita cualquier plaza y se da de alta una nueva eligiendo el punto en un mapa (no hace falta estar allí); la dirección se rellena sola con la calle más cercana.
+- Administración puede eliminar con la papelera una plaza que ya no existe.
+
 ## Novedades de la versión 0.7.0
 
 - En el mapa todas las plazas llevan el símbolo de silla de ruedas. El estado (libre, ocupada, fuera de servicio o sin estado) aparece al tocar la plaza y en su ficha.
