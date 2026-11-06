@@ -6,6 +6,12 @@
 
 DiverCityPark ayuda a encontrar plazas de aparcamiento para personas con movilidad reducida en Las Palmas de Gran Canaria (piloto: Guanarteme y Mesa y López) y a saber si se pueden usar.
 
+## Novedades de la versión 0.9.0
+
+- **La demo ya trae el listado real de plazas PMR del equipo: 243 plazas**, en sus puntos exactos, con su número de plazas, si están verificadas y sus observaciones. No hace falta importar nada.
+- Al abrir esta versión, la demo se regenera sola con el listado (se pierden las pruebas que hubieras hecho antes).
+- Administración puede importar plazas desde un Excel o un CSV en **Panel → Plazas registradas → Importar desde Excel o CSV**: antes de importar se ve qué filas entran, cuáles ya están registradas y cuáles tienen problemas.
+
 ## Novedades de la versión 0.8.0
 
 - Con las cuentas de moderación o administración, en **Panel → Plazas registradas** se ven todas las plazas, también las dadas de baja, con filtros y buscador.
@@ -21,7 +27,7 @@ DiverCityPark ayuda a encontrar plazas de aparcamiento para personas con movilid
 
 ## Antes de empezar
 
-- Es una **demostración con datos de ejemplo**: las plazas están sobre calles reales, pero sus datos y los avisos son ficticios.
+- **Las plazas son reales** (el listado del equipo). **Los estados (libre, ocupada, fuera de servicio), los avisos, los comentarios y las estadísticas son de ejemplo** para poder probar la app: no reflejan la situación real de esas plazas.
 - Los datos se guardan **solo en tu navegador o en tu móvil**. Lo que hagas no lo ve nadie más, y si borras los datos del navegador se pierde.
 - Para volver a empezar: **Perfil → Restablecer datos de demostración**.
 - El mapa y la búsqueda de direcciones necesitan conexión a internet.
